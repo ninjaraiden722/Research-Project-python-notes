@@ -21,7 +21,7 @@ model_var = "gpt-4o-mini"
 
 import openai
 
-openai.api_key = " "
+openai.api_key = "#insert OpenAI api key here#"
 response = openai.chat.completions.create(
 model= model_var,
 messages=[
