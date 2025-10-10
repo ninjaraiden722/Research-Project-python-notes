@@ -57,7 +57,7 @@ model_var = "gpt-4o-mini"
 print("START RUN\n\n\n")
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 response = openai.chat.completions.create(
 model= model_var,
 messages=[
