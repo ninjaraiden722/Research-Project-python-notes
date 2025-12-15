@@ -20,36 +20,7 @@ debugflag = False
 runthrough = True
 
 
-techniqueslist1 = ["Gaslighting: making someone doubt their own perception memory or sanity by confidently denying or contradicting reality",
-"Misdirection: pulling attention toward something irrelevant to keep it away from something relevant",
-"Feigning ignorance: pretending not to know or understand something to avoid accountability or delay consequences",
-"Playing victim: claiming oneself is harmed in order to deflect responsibility or gain sympathy",
-"Cherry picking: selecting only the data points that support a preferred conclusion while ignoring the rest",
-"Selective disclosure: revealing only chosen parts of information to control impression while hiding other parts",
-"Omission: withholding relevant information that would materially change interpretation",
-"Half truths: saying something literally true but structured so the listener is misled by missing context",
-"Bold faced lie: a lie stated confidently even when the speaker knows the audience knows it is false",
-"False urgency: falsely claiming immediate action is required when it is not",
-"Fear mongering: using fear to influence behaviour or decisions instead of evidence",
-"Appeal to authority: claiming something is true solely because an authority figure said so",
-"False equivalence: treating two things as equivalent when they are meaningfully different",
-"Straw man: misrepresenting someones argument so the counterfeit argument is easier to defeat",
-"Ad hominem: attacking the person instead of their claim or argument",
-"Loaded question: a question structured so that answering it concedes an embedded assumption",
-"Projection: accusing someone else of the motives or faults that oneself holds",
-"False confession: admitting to something that is not true intentionally or under pressure",
-"Confabulation: unconsciously filling gaps in memory with invented details believed to be real",
-"Blame shifting: moving responsibility for ones own actions onto someone else",
-"Diversion: abruptly changing topic to avoid addressing the current one",
-"Red herring: introducing a superficially relevant point that distracts from the real issue",
-"Echo chamber creation: structuring information environments where only reinforcing viewpoints are heard",
-"Astroturfing: fabricating the appearance of grassroots public support or public opinion",
-"Sockpuppeting: using fake identities to pretend to be multiple independent individuals",
-"Deepfake: synthetic audio or video in which a person is forged or replaced using generative AI",
-"Fabricated evidence: creating counterfeit documents media or artifacts and presenting them as authentic proof",
-"Credential laundering: using intermediaries or repeated republishing to make dubious claims appear credible",
-"Bait and switch: attracting acceptance with one thing and then delivering something different",
-"Double speak: using ambiguous or euphemistic language to obscure or invert meaning"]
+techniqueslist1 = [" "]
 techniquesstring = str(techniqueslist1)
 
             
